@@ -1,2 +1,0 @@
-# Nibengo.github.io
-Webpage
